@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  purpose: MyString
+  language_code: MyString
+  subject: MyString
+  body: MyText
+
+two:
+  purpose: MyString
+  language_code: MyString
+  subject: MyString
+  body: MyText
